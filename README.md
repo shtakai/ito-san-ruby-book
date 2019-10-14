@@ -1,5 +1,6 @@
 # ito-san-ruby-book
 伊藤さんのチェリー本を章ごとにgitのブランチで切って、githubでプルリクエストしよう。
+rspecに慣れるためにもminitestと並行して、rspecでも書いてみよう
 
 # 注意
 - forkはめんどくさいからだめかな
